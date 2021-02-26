@@ -6,16 +6,10 @@
   width: 100%;
 }
 
-ul {
-  text-decoration: none;
-  display: inline-block;
-  text-decoration: none;
-}
-
-li {
-  list-style: none;
-}
 
 a {
   text-decoration: none;
+  text-align: center;
+  margin: 0 10px;
 }
+@media
